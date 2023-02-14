@@ -1,0 +1,13 @@
+import React from 'react';
+
+const HeadLine = () => {
+    return (
+        <div className='w-full flex'>
+            <img src="/headline1.png" alt="" />
+            <h2>Headline</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat aut repudiandae cupiditate temporibus numquam, dolor omnis molestiae esse exercitationem delectus nihil necessitatibus iste aliquid facilis. Officiis quod praesentium vero sunt?</p>
+        </div>
+    );
+};
+
+export default HeadLine;
