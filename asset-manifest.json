@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa5edb65.css",
-    "main.js": "/static/js/main.c1f84b1b.js",
-    "static/js/787.7cf41e7d.chunk.js": "/static/js/787.7cf41e7d.chunk.js",
-    "index.html": "/index.html",
-    "main.fa5edb65.css.map": "/static/css/main.fa5edb65.css.map",
-    "main.c1f84b1b.js.map": "/static/js/main.c1f84b1b.js.map",
-    "787.7cf41e7d.chunk.js.map": "/static/js/787.7cf41e7d.chunk.js.map"
+    "main.css": "/glasses-react/static/css/main.fa5edb65.css",
+    "main.js": "/glasses-react/static/js/main.32ef912d.js",
+    "static/js/787.7cf41e7d.chunk.js": "/glasses-react/static/js/787.7cf41e7d.chunk.js",
+    "index.html": "/glasses-react/index.html",
+    "main.fa5edb65.css.map": "/glasses-react/static/css/main.fa5edb65.css.map",
+    "main.32ef912d.js.map": "/glasses-react/static/js/main.32ef912d.js.map",
+    "787.7cf41e7d.chunk.js.map": "/glasses-react/static/js/787.7cf41e7d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fa5edb65.css",
-    "static/js/main.c1f84b1b.js"
+    "static/js/main.32ef912d.js"
   ]
 }
